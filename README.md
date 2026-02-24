@@ -34,8 +34,9 @@ Building scalable products with modern web & mobile technologies.
 </p>
 
 ### ⚙️ Backend & Tools
-<p> <img src="https://skillicons.dev/icons?i=nodejs,git,github,docker,firebase,cs,dotnet,rust" /> </p>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,docker,firebase,cs,dotnet,rust" />
+</p>
 ---
 
 ## 📊 GitHub Stats
