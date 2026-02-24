@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaloyan Nikolov</h1>
 <h3 align="center">Full-Stack & Mobile Developer • SaaS Builder • Product Thinker</h3>
-
 <p align="center">
 Building scalable products with modern web & mobile technologies.
 </p>
@@ -30,13 +29,14 @@ Building scalable products with modern web & mobile technologies.
 
 ### 🖥 Desktop
 <p>
-<img src="https://skillicons.dev/icons?i=tauri" />
+<img src="https://skillicons.dev/icons?i=tauri,rust" />
 </p>
 
 ### ⚙️ Backend & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,docker,firebase,cs,dotnet,rust" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,git,github,docker,firebase" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -68,5 +68,3 @@ Building scalable products with modern web & mobile technologies.
 
 - 🌍 Based in Bulgaria
 - 💼 Open for collaborations & startup projects
-
----
