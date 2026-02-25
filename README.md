@@ -24,7 +24,7 @@ Building scalable products with modern web & mobile technologies.
 
 ### 📱 Mobile
 <p>
-<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=react,dotnet,cs" />
 </p>
 
 ### 🖥 Desktop
@@ -34,7 +34,7 @@ Building scalable products with modern web & mobile technologies.
 
 ### ⚙️ Backend & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,git,github,docker,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,git,github,linux" />
 </p>
 
 ---
