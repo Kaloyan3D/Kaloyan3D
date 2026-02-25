@@ -19,7 +19,7 @@ Building scalable products with modern web & mobile technologies.
 
 ### 💻 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,ts" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
 </p>
 
 ### 📱 Mobile
@@ -35,6 +35,11 @@ Building scalable products with modern web & mobile technologies.
 ### ⚙️ Backend & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,git,github,linux,ts" />
+</p>
+
+### 🎨 CG & Design
+<p>
+<img src="https://skillicons.dev/icons?i=ps,ai,blender" />
 </p>
 
 ---
